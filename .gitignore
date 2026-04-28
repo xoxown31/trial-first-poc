@@ -1,0 +1,7 @@
+*.pdf
+*.png
+results/
+__pycache__/
+*.pyc
+run_log.txt
+draft_kcc2026.md
