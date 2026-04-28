@@ -1,6 +1,6 @@
 # Trial-First: Execution-Driven Failure Analysis for Code Generation with Small Language Models
 
-**KCC 2026** | [Project Page](https://xoxown31.github.io/trial-first/)
+[Project Page](https://xoxown31.github.io/trial-first/)
 
 ## Overview
 
@@ -51,7 +51,6 @@ python plot.py
   title     = {Trial-First: Execution-Driven Failure Analysis for Code Generation
                with Small Language Models},
   author    = {Park, Taejoo},
-  booktitle = {Proceedings of KCC},
   year      = {2026}
 }
 ```
