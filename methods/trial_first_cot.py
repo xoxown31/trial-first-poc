@@ -1,4 +1,4 @@
-from utils.ollama_client import chat
+from utils.llm_client import chat
 from utils.executor import extract_code, execute_code
 
 MAX_TRIALS = 3

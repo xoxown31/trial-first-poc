@@ -1,4 +1,6 @@
+pyarrow==14.0.2
 datasets
 requests
 tqdm
 pandas
+openai
